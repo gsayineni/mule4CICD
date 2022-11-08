@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>8e8e092d-417a-46f9-8401-6bceb9dd4b4c</groupId>
-	<artifactId>mule4cicddeploy</artifactId>
+	<artifactId>mule4-cicd</artifactId>
 	<version>2.0.0</version>
 	<packaging>mule-application</packaging>
 
-	<name>mule4cicddeploy</name>
+	<name>mule4-cicd</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
