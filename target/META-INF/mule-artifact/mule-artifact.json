@@ -1,0 +1,24 @@
+{
+  "configs": [
+    "mule4cicddeploy.xml"
+  ],
+  "secureProperties": [],
+  "redeploymentEnabled": true,
+  "name": "8e8e092d-417a-46f9-8401-6bceb9dd4b4c:mule4cicddeploy:2.0.0",
+  "minMuleVersion": "4.4.0",
+  "requiredProduct": "MULE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {
+      "exportedPackages": [],
+      "exportedResources": [
+        "log4j2.xml",
+        "mule4cicddeploy.xml"
+      ]
+    }
+  },
+  "bundleDescriptorLoader": {
+    "id": "mule",
+    "attributes": {}
+  }
+}
